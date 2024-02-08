@@ -1,0 +1,36 @@
+<style>
+	@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC:400,700&display=swap');
+</style>
+
+.container a{
+	margin-top: 0.5;
+}
+.container img{
+	height: 259px;
+}
+a{
+	font-family: 'Playfair Display SC', serif;
+	text-decoration: none;
+	color: #af8f6a;
+}
+
+h1,h2,p{
+	font-family: 'Playfair Display SC', serif;
+	margin-left: 30%;
+	margin-right:30%;
+	color: black;
+}
+
+body{
+	background-color: #fffdd0;
+}
+img{
+	height: 300px;
+	width: 400px;
+}
+p{
+	text-align: justify;
+}
+h1{
+	text-align: center;
+}
